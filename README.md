@@ -1,5 +1,5 @@
 # Ozone - Substratum Plugin for OxygenOS Oreo [![GitHub license](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/ungeeked/Ozone/blob/master/LICENSE)
-<img src="https://github.com/ungeeked/Ozone/blob/master/extras/banner.jpg"/>
+<img src="https://github.com/ungeeked/Ozone/blob/master/extras/banner.png"/>
 
 ## Features
 Ozone provides several tweaks to modify OxygenOS:
