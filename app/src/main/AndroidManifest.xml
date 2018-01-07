@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="substratum.theme.template"
+          package="com.ungeeked.ozone"
           android:installLocation="internalOnly">
 
     <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
@@ -9,7 +9,7 @@
 	
 	<uses-feature
         android:name="projekt.substratum.theme"
-        android:required="false" /> <!-- Set to true for block to be enabled -->
+        android:required="false" /> <!-- Set to true for OMS-rom only block to be enabled -->
 
     <application
         android:allowBackup="false"
@@ -18,9 +18,10 @@
         android:supportsRtl="true"
         android:theme="@style/DialogStyle"
         tools:node="replace"
-        tools:ignore="GoogleAppIndexingWarning">
+        tools:ignore="GoogleAppIndexingWarning"
+        android:extractNativeLibs="false">
 
-        <activity android:name="substratum.theme.template.SubstratumLauncher">
+        <activity android:name="com.ungeeked.ozone.SubstratumLauncher">
             <intent-filter>
                 <action android:name="projekt.substratum.THEME"/>
                 <category android:name="android.intent.category.DEFAULT"/>
@@ -62,7 +63,7 @@
         <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
         <meta-data
             android:name="Substratum_Plugin"
-            android:value="10.0.4"/>
+            android:value="11.5.0"/>
         <meta-data
             android:name="Substratum_Encryption"
             android:value="@string/encryption_status"/>
