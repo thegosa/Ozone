@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.QS.TileLabel" parent="@*com.android.systemui:style/TextAppearance.QS">
+        <item name="android:textSize">@*com.android.systemui:dimen/qs_tile_text_size</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>
