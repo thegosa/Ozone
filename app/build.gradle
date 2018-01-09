@@ -40,8 +40,8 @@ android {
         minSdkVersion 26
         targetSdkVersion 27
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 7
-        versionName "1.7"
+        versionCode 9
+        versionName "1.9"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
@@ -54,10 +54,17 @@ android {
             moduleName "LoadingProcess"
         }
     }
-
+    def gitHash = { ->
+        def stdout = new ByteArrayOutputStream()
+        exec {
+            commandLine 'git', 'rev-parse', '--short', 'HEAD'
+            standardOutput = stdout
+        }
+        return stdout.toString().trim()
+    }
     applicationVariants.all { variant ->
         variant.outputs.all{ output ->
-            outputFileName = "Ozone_" + versionName + "(" + versionCode + ")" + ".apk"
+            outputFileName = "Ozone_${variant.versionName}_${gitHash()}.apk"
         }
     }
 
