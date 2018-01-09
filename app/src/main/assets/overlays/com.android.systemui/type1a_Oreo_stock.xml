@@ -53,11 +53,4 @@
     </array>
 
     <color name="fake_preview">#fff5f5f5</color>
-    <!--Notification background-->
-    <color name="notification_material_background_color">#fffefefe</color>
-    <color name="notification_panel_solid_background">#fffefefe</color>
-    <color name="notification_guts_bg_color">#fffefefe</color>
-    <color name="notification_material_background_dimmed_color">#fffefefe</color>
-    <color name="notification_material_background_low_priority_color">#fffefefe</color>
-    <color name="notification_shade_background_color">#fffefefe</color>
 </resources>
