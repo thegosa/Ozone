@@ -26,9 +26,12 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Fix Wifi traffic indicators not showing </item>
-        <item>Oreo QS background is now divided in two parts - Stock and With Matching Notifications </item>
-        <item>Lighter Oreo QS background </item>
-        <item>Added an option in settings for Oreo layout </item>
+        <item>Template updated to 11.5</item>
+        <item>Theme Substratum app</item>
+        <item>New colors - Starwars red and Bronze</item>
+        <item>New background - Slate</item>
+        <item>Options for Dashboard category title</item>
+        <item>Added option for Oreo 8.1 statusbar icons</item>
+        <item>Minor bugfixes</item>
     </string-array>
 </resources>
