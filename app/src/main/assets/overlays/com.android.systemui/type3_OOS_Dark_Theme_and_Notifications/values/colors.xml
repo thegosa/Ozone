@@ -21,14 +21,11 @@
     <color name="oneplus_contorl_text_color_secondary_dark">#7affffff</color>
     <color name="oneplus_contorl_text_color_secondary_light">#66000000</color>
 	
-	    <!--Notification BG-->
+    <!--Notification-->
     <color name="notification_material_background_color">@*android:color/background_dark</color>   <!--OG:@android:color/notification_material_background_color-->
-
-    <!--Notification dropdown related values-->
-    <color name="notification_guts_bg_color">@*android:color/background_dark</color>   <!--OG:#ffeeeeee-->
-    <color name="notification_material_background_dimmed_color">@*android:color/holo_red_dark</color>   <!--OG:#ccffffff-->
-    <color name="notification_material_background_low_priority_color">@*android:color/background_dark</color>   <!--Bottom Notification - OG:#fff5f5f5-->
-    <color name="notification_shade_background_color">@*android:color/background_dark</color>   <!--Divider - OG:#ffeeeeee-->
-    <color name="qs_tile_divider">@*android:color/holo_red_dark</color>   <!--OG:#ffeeeeee-->
-
+    <color name="notification_guts_bg_color">@*android:color/background_dark</color>
+    <color name="notification_material_background_dimmed_color">@*android:color/holo_red_dark</color>
+    <color name="notification_material_background_low_priority_color">@*android:color/background_dark</color>
+    <color name="notification_shade_background_color">@*android:color/background_dark</color>
+    <color name="qs_tile_divider">@*android:color/holo_red_dark</color>
 </resources>
