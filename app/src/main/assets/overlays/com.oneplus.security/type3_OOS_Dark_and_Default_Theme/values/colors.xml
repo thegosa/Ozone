@@ -51,4 +51,16 @@
     <color name="oneplus_contorl_bg_color_cardview_dark">@*android:color/background_dark</color>
     <color name="oneplus_contorl_bg_color_listbg_dark">@*android:color/background_dark</color>
     <color name="oneplus_contorl_bg_color_dark">@*android:color/background_dark</color>
+	
+	<!--Widget Text-->
+    <color name="oneplus_security_text_color_primary_light">#ffffffff</color>
+    <color name="oneplus_security_text_color_primary_dark">#ffffffff</color>
+    <color name="oneplus_security_text_color_primary_default">#ffffffff</color>
+    <color name="oneplus_security_text_color_secondary_light">@*android:color/accent_material_dark</color>
+    <color name="oneplus_security_text_color_secondary_dark">@*android:color/accent_material_dark</color>
+    <color name="oneplus_security_text_color_secondary_default">@*android:color/accent_material_dark</color>
+    <color name="traffic_data_config_title_color">#ffffffff</color>
+    <color name="foreground_material_light">#ff000000</color>  <!--OG:@color/black; hardcoding as need to change the value of "black"-->
+    <color name="primary_dark_material_dark">#ff000000</color>  <!--OG:@color/black; hardcoding as need to change the value of "black"-->
+    <color name="black">#ffffffff</color>  <!--This is required to change shelf text without touching layouts"-->
 </resources>
