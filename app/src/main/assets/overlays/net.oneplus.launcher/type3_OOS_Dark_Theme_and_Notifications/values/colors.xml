@@ -40,4 +40,13 @@
 
 	<!--Settings Actionbar-->
 	<color name="actionbar_settings">@*android:color/background_dark</color>
+
+    <!--Shelf-->
+    <color name="quick_page_item_background_color">#66000000</color>
+    <color name="quick_page_recent_text_color">#ffffffff</color>
+    <color name="quick_page_recent_title_color">@*android:color/accent_material_dark</color>
+    <color name="note_panel_header_reminder_text_color">#8affffff</color>
+    <color name="note_panel_input_field_text_color">#8affffff</color>
+    <color name="shelf_card_subtitle_color">#ffe5e5e5</color>
+    <color name="floating_button_main_color">@*android:color/accent_material_dark</color>
 </resources>
