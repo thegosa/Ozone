@@ -26,12 +26,8 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Template updated to 11.5</item>
-        <item>Theme Substratum app</item>
-        <item>New colors - Starwars red and Bronze</item>
-        <item>New background - Slate</item>
-        <item>Options for Dashboard category title</item>
-        <item>Added option for Oreo 8.1 statusbar icons</item>
-        <item>Minor bugfixes</item>
+        <item>Added roaming icons from 8.1</item>
+        <item>Themed Shelf</item>
+        <item>Use correct DND icons</item>
     </string-array>
 </resources>
