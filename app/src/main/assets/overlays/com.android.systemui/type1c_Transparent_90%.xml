@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Notification-->
+    <color name="notification_material_background_color">#1a000000</color>
+    <color name="notification_guts_bg_color">#1a000000</color>
+    <color name="notification_material_background_dimmed_color">#1a000000</color>
+    <color name="notification_material_background_low_priority_color">#1a000000</color>
+    <color name="notification_shade_background_color">#1a000000</color>
+    <color name="qs_tile_divider">#1a000000</color>
+    <bool name="config_drawNotificationBackground">false</bool>
+</resources>
