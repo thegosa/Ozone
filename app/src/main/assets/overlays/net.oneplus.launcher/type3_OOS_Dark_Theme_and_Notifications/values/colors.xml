@@ -49,4 +49,7 @@
     <color name="note_panel_input_field_text_color">#8affffff</color>
     <color name="shelf_card_subtitle_color">#ffe5e5e5</color>
     <color name="floating_button_main_color">@*android:color/accent_material_dark</color>
+    <color name="foreground_material_light">#ff000000</color>  <!--OG:@color/black; hardcoding as need to change the value of "black"-->
+    <color name="primary_dark_material_dark">#ff000000</color>  <!--OG:@color/black; hardcoding as need to change the value of "black"-->
+    <color name="black">#ffffffff</color>  <!--This is required to change shelf text without touching layouts"-->
 </resources>
