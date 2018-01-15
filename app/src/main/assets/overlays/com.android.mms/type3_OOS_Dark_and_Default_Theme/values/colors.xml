@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="control_base_color">@*android:color/accent_material_dark</color>  <!--FAB-->
+    <color name="statusbar_color">@*android:color/holo_red_dark</color>
+    <color name="actionbar_color">@*android:color/background_dark</color>
+
+    <!--Background-->
+    <color name="oneplus_contorl_bg_color_appbar_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_steppers_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_dialogs_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_menu_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_bottomsheets_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_cardview_dark">@*android:color/holo_blue_dark</color>
+    <color name="oneplus_contorl_bg_color_listbg_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_dark">@*android:color/background_dark</color>
+</resources>
