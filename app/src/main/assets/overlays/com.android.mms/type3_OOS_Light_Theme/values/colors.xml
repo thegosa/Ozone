@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="system_warning_light">@*android:color/accent_material_dark</color>  <!--Red dot unread-->
+    <color name="control_base_color">@*android:color/accent_material_dark</color>  <!--FAB-->
+    <color name="statusbar_color">@*android:color/holo_red_dark</color>
+    <color name="actionbar_color">@*android:color/background_dark</color>
+</resources>
