@@ -26,11 +26,6 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Themed OP SMS app</item>
-        <item>Launcher fix for OB30/21</item>
-        <item>Themed launcher popup shortcuts</item>
-        <item>Added notification transparency options</item>
-        <item>Dark notification fix for Whatsapp and Ebay</item>
-        <item>Minor bugfixes</item>
+        <item>Maintenance and minor bug fixes</item>
     </string-array>
 </resources>
