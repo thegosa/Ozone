@@ -2,4 +2,7 @@
 <resources>
     <!--Popup-->
     <color name="oneplus_contorl_bg_color_dialogs_dark">@*android:color/background_dark</color>
+
+    <!--Search-->
+    <color name="allapps_fab_main_color">@*android:color/background_dark</color>
 </resources>
