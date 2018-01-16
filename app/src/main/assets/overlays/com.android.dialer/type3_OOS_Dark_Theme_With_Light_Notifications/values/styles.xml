@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="OnePlusDialpadTheme">
+        <item name="*com.android.dialer:dialpad_text_color">@*com.android.dialer:color/oneplus_dialpad_input_text_color</item>
+        <item name="*com.android.dialer:dialpad_text_color_primary">@*com.android.dialer:color/oneplus_dialpad_button_text_color_primary</item>
+        <item name="*com.android.dialer:dialpad_text_color_secondary">@*com.android.dialer:color/oneplus_dialpad_button_text_color_secondary</item>
+        <item name="*com.android.dialer:dialpad_icon_tint">@*com.android.dialer:color/oneplus_dialpad_icon_tint</item>
+        <item name="*com.android.dialer:dialpad_voicemail_tint">@*com.android.dialer:color/oneplus_dialpad_voicemail_tint</item>
+        <item name="*com.android.dialer:dialpad_background">@*android:color/background_dark</item>
+        <item name="*com.android.dialer:dialpad_sliding_extra_area_height">@*com.android.dialer:dimen/oneplus_sliding_extra_area_height</item>
+        <item name="*com.android.dialer:dialpad_key_minheight">@*com.android.dialer:dimen/oneplus_dialpad_key_height</item>
+        <item name="*com.android.dialer:dialpad_bottom_space_height">@*com.android.dialer:dimen/oneplus_dialpad_bottom_space_height</item>
+        <item name="*com.android.dialer:dialpad_digits_container_height">@*com.android.dialer:dimen/oneplus_dialpad_digits_container_height</item>
+        <item name="*com.android.dialer:digits_adjustable_height">@*com.android.dialer:dimen/oneplus_dialpad_digits_height</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_margin_bottom">@*com.android.dialer:dimen/oneplus_floating_action_button_margin_bottom</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_width">@*com.android.dialer:dimen/oneplus_floating_action_button_width</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_height">@*com.android.dialer:dimen/oneplus_floating_action_button_height</item>
+    </style>
+
     <style name="Oneplus.Widget.Material.CompoundButton.Switch" parent="@*com.android.dialer:style/Widget.Material.CompoundButton.Switch">
         <item name="android:thumb">@*com.android.dialer:drawable/op_switch_thumb_material_anim</item>
         <item name="android:radius">@*com.android.dialer:dimen/switch_ripple_radius</item>
         <item name="android:track">@*com.android.dialer:drawable/switch_track_material</item>
         <item name="android:elevation">0.0dip</item>
     </style>
-	<style name="Oneplus.Widget.Material.Light.CompoundButton.Switch" parent="@*com.android.dialer:style/Widget.Material.CompoundButton.Switch">
+    <style name="Oneplus.Widget.Material.Light.CompoundButton.Switch" parent="@*com.android.dialer:style/Widget.Material.CompoundButton.Switch">
         <item name="android:thumb">@*com.android.dialer:drawable/op_switch_thumb_material_light_anim</item>
         <item name="android:radius">@*com.android.dialer:dimen/switch_ripple_radius</item>
         <item name="android:track">@*com.android.dialer:drawable/switch_track_material</item>

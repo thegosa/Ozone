@@ -37,4 +37,5 @@
 
     <!--Divider-->
     <color name="oneplus_contorl_divider_color_dark">#00ffffff</color>
+    <color name="background_dialpad">@*android:color/background_dark</color>
 </resources>
