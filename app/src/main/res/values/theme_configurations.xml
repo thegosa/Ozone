@@ -26,6 +26,10 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Maintenance and minor bug fixes</item>
+        <item>New Background: Asphalt </item>
+        <item>New Accents: Indigo001/002</item>
+        <item>Dark notifications with Notification transparency</item>
+        <item>Themed Oneplus messaging app</item>
+        <item>Various bugfixes for latest open betas</item>
     </string-array>
 </resources>
