@@ -2,7 +2,7 @@
 <com.android.mms.ui.OPKeyboardListenerRelativeLayout android:id="@*com.android.mms:id/root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <FrameLayout android:id="@*com.android.mms:id/placeholder" android:layout_width="fill_parent" android:layout_height="@*com.android.mms:dimen/oneplus_contorl_list_item_height_one_line2" />
-    <LinearLayout android:orientation="vertical" android:id="@*com.android.mms:id/recipients_subject_linear" android:background="@*com.android.mms:color/oos_compose_message_top_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="@*com.android.mms:dimen/oneplus_contorl_shadow_z2">
+    <LinearLayout android:orientation="vertical" android:id="@*com.android.mms:id/recipients_subject_linear" android:background="@*android:color/holo_red_dark" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="@*com.android.mms:dimen/oneplus_contorl_shadow_z2">
         <ViewStub android:id="@*com.android.mms:id/recipients_editor_stub" android:layout="@*com.android.mms:layout/recipients_editor" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         <com.oneplus.lib.widget.OPEditText android:textAppearance="?*android:textAppearanceMediumInverse" android:textColor="@*android:color/black" android:id="@*com.android.mms:id/subject" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@*com.android.mms:string/subject_hint" android:maxLines="1" android:capitalize="sentences" android:autoText="true" />
     </LinearLayout>

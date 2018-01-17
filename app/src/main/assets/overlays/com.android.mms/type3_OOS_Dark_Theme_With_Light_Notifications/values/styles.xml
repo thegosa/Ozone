@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Statusbar-->
+    <style name="MmsHoloTheme" parent="@*com.android.mms:style/Oneplus.Theme.DeviceDefault">
+        <item name="android:imeOptions">flagNoExtractUi</item>
+        <item name="android:alertDialogTheme">@*com.android.mms:style/OnePlusContactsAlertDialogTheme</item>
+        <item name="android:colorPrimary">@*com.android.mms:color/actionbar_color</item>
+        <item name="android:colorPrimaryDark">@*android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@*com.android.mms:color/control_base_color</item>
+        <item name="android:windowLightStatusBar">@*com.android.mms:bool/config_window_light_status_Bar</item>
+        <item name="onePlusPrimaryColor">@*com.android.mms:color/control_base_color</item>
+        <item name="onePlusActionbarTitleColor">@*com.android.mms:color/oos_actionbar_text_color</item>
+        <item name="onePlusActionbarIconColor">@*com.android.mms:color/default_menu_color</item>
+        <item name="onePlusActionbarBackgroundColor">@*com.android.mms:color/actionbar_color</item>
+        <item name="onePlusActionbarIconAlpha">1.0</item>
+    </style>
+
+    <!--AOSP Toggles-->
     <style name="Oneplus.Widget.Material.CompoundButton.Switch" parent="@*com.android.mms:style/Widget.Material.CompoundButton.Switch">
         <item name="android:thumb">@*com.android.mms:drawable/op_switch_thumb_material_anim</item>
         <item name="android:radius">@*com.android.mms:dimen/switch_ripple_radius</item>
