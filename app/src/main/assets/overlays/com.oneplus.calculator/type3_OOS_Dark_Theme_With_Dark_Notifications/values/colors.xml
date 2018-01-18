@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="op_pad_numeric_background_color">#ff1d1d1d</color>
+    <color name="op_pad_operator_background_color">#ff2a2a2a</color>
+    <color name="op_pad_advanced_background_color">#ffffbf00</color>
+    <color name="op_eq_background_color">#ff484848</color>
+    <color name="display_result_exponent_text_color">#40ffffff</color>
+    <color name="op_calculator_Text_result_color">#8affffff</color>
+    <color name="pad_button_ripple_color">#1affffff</color>
+    <color name="op_calculator_toolBar_title_color">#ffffffff</color>
+    <color name="op_calculator_control_high_light_color">#33ffffff</color>
+    <color name="op_calculator_control_normal_color">#89ffffff</color>
+    <color name="op_calculator_navigation_bar_color">#ff000001</color>
+    <color name="op_calculator_arrow_color">#2effffff</color>
+    <color name="op_calculator_menu_background_color">#ff252728</color>
+    <color name="op_calculator_menu_text_color">#ffffffff</color>
+    <color name="op_calculator_dialog_background_color">#ff252728</color>
+    <color name="op_calculator_dialog_msg_text_color">#b3ffffff</color>
+
+    <color name="op_pad_button_text_color">#e6ffffff</color>
+    <color name="op_pad_button_advanced_text_color">#ff000000</color>
+    <color name="op_calculator_Text_color">#e6ffffff</color>
+    <color name="op_calculator_error_color">#ffe83d33</color>
+    <color name="op_calculator_error_result_color">#8ae83d33</color>
+    <color name="op_calculator_accent_color">@*android:color/accent_material_dark</color>
+    <color name="op_calculator_history_accent_color">@*android:color/accent_material_dark</color>
+</resources>
