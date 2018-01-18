@@ -26,10 +26,9 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>New Background: Asphalt </item>
-        <item>New Accents: Indigo001/002</item>
-        <item>Dark notifications with Notification transparency</item>
-        <item>Themed Oneplus messaging app</item>
-        <item>Various bugfixes for latest open betas</item>
+        <item>New Background: Gunpowder</item>
+        <item>New Accents: Blue_005/006/007; Orange_002; Pink_005/006/007/008; Red_011</item>
+        <item>Themed OnePlus Calculator</item>
+        <item>Themed Gboard</item>
     </string-array>
 </resources>
