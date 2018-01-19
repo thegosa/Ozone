@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ColorChordedTrackMaterialDarkTheme">#ff80cbc4</color>
-    <color name="ColorGestureTrackMaterialDarkTheme">#ff80cbc4</color>
-    <color name="key_action_bordered_dark_theme">#cc80cbc4</color>
-    <color name="label_composing_text_material_dark_theme">#e680cbc4</color>
-    <color name="slide_indicator_material_dark_theme">#ff80cbc4</color>
+    <color name="ColorChordedTrackMaterialDarkTheme">@*android:color/accent_material_dark</color>
+    <color name="ColorGestureTrackMaterialDarkTheme">@*android:color/accent_material_dark</color>
+    <color name="key_action_bordered_dark_theme">@*android:color/accent_material_dark</color>
+    <color name="label_composing_text_material_dark_theme">@*android:color/accent_material_dark</color>
+    <color name="slide_indicator_material_dark_theme">@*android:color/accent_material_dark</color>
+    <color name="key_action_pressed_bordered_dark_theme">@*android:color/accent_material_dark</color>
+    <color name="popup_background_material_dark_theme">@*android:color/@*android:color/holo_red_dark</color>
 </resources>
