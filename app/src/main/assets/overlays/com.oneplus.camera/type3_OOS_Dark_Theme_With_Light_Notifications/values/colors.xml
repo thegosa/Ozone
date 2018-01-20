@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ActionBar-->
+    <color name="adv_settings_action_bar_background_android">@*android:color/holo_red_dark</color>
+    <color name="adv_settings_action_bar_background_dark">@*android:color/holo_red_dark</color>
+
+    <!--Background-->
+    <color name="adv_settings_window_background_dark">@*android:color/background_dark</color>
+
+    <!--Dividers-->
+    <color name="adv_settings_divider_line_android">#00000000</color>
+    <color name="adv_settings_divider_line_dark">#00000000</color>
+    <color name="adv_settings_action_bar_divider_android">#00000000</color>
+    <color name="adv_settings_action_bar_divider_dark">#00000000</color>
+
+    <!--Navbar-->
+    <color name="adv_settings_navigation_bar_color_dark">@*android:color/holo_red_dark</color>
+
+    <!--Status bar-->
+    <color name="adv_settings_status_bar_background_android">@*android:color/holo_red_dark</color>
+    <color name="adv_settings_status_bar_background_dark">@*android:color/holo_red_dark</color>
+
+    <!--Accent-->
+    <color name="switch_accent_color">@*android:color/accent_material_dark</color>
+    <color name="switch_accent_color_dark">@*android:color/accent_material_dark</color>
+    <color name="adv_settings_accent_color">@*android:color/accent_material_dark</color>
+</resources>
