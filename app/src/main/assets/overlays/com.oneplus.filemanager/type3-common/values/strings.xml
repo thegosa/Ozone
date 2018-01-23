@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="storage_apk">APKs: %1$s</string>
+    <string name="storage_audio">Audio: %1$s</string>
+    <string name="storage_available">Available: %1$s</string>
+    <string name="storage_compression">Archives: %1$s</string>
+    <string name="storage_document">Documents: %1$s</string>
+    <string name="storage_other">Others: %1$s</string>
+    <string name="storage_picture">Images: %1$s</string>
+    <string name="storage_video">Video: %1$s</string>
+    <string name="total_size">Total %1$s</string>
+    <string name="used_size">Already used %1$s</string>
+</resources>

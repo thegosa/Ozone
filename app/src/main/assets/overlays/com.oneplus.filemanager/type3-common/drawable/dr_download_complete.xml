@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@*com.oneplus.filemanager:dimen/icon_size" android:width="@*com.oneplus.filemanager:dimen/icon_size" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-965.0" android:translateY="-485.0">
+        <group android:translateX="965.0" android:translateY="485.0">
+            <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M 26.9705631 46.8198058 L 14.2426405 34.0918827 L 10 38.3345242 L 26.9705631 55.305088 L 63.0330078 19.2426405 L 58.7903664 15 Z" android:strokeWidth="1.0" />
+        </group>
+    </group>
+</vector>

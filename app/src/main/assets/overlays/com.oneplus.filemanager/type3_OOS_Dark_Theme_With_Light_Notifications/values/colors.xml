@@ -9,11 +9,35 @@
     <color name="oneplus_contorl_bg_color_cardview_dark">@*android:color/holo_blue_dark</color>
     <color name="oneplus_contorl_bg_color_listbg_dark">@*android:color/background_dark</color>
     <color name="oneplus_contorl_bg_color_dark">@*android:color/background_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/holo_red_dark</color>
+    <color name="primary_material_dark">@*android:color/holo_red_dark</color>
+    <color name="actionbar_background">@*android:color/holo_red_dark</color>
+    <color name="actionbar_background_color_dark">@*android:color/holo_red_dark</color>
 
-    <!--Accents #0071cc-->
+    <!--Accents -->
+    <color name="accent_material_dark">@*android:color/accent_material_dark</color>
+    <color name="accent_material_light">@*android:color/accent_material_dark</color>
+    <color name="datepicker_default_circle_background_color_material_dark">@*android:color/accent_material_dark</color>
+    <color name="datepicker_default_circle_background_color_material_light">@*android:color/accent_material_dark</color>
     <color name="new_app_accent">@*android:color/accent_material_dark</color>
     <color name="progress_flag">@*android:color/accent_material_dark</color>
-
-    <!--Accents #0b7fdd-->
+    <color name="password_background">@*android:color/accent_material_dark</color>
     <color name="color_annulus_active">@*android:color/accent_material_dark</color>
+    <color name="section_title_fill_base">@*android:color/accent_material_dark</color>
+    <color name="onePlusAccentColor_device_default_dark">@*android:color/accent_material_dark</color>
+    <color name="onePlusAccentColor_device_default_light">@*android:color/accent_material_dark</color>
+    <color name="onePlusPrimaryColor_device_default_dark">@*android:color/accent_material_dark</color>
+    <color name="onePlusPrimaryColor_device_default_light">@*android:color/accent_material_dark</color>
+    <color name="blue_03_dark">@*android:color/accent_material_dark</color>
+    <color name="blue_03_light">@*android:color/accent_material_dark</color>
+    <color name="dialog_header_color_background">@*android:color/accent_material_dark</color>
+    <color name="dialog_header_color_background_dark">@*android:color/accent_material_dark</color>
+    <color name="selection_control_on_dark">@*android:color/accent_material_dark</color>
+    <color name="selection_control_on_light">@*android:color/accent_material_dark</color>
+    <color name="system_focus_dark">@*android:color/accent_material_dark</color>
+    <color name="system_focus_light">@*android:color/accent_material_dark</color>
+    <color name="alert_dialog_color_accent_dark">@*android:color/accent_material_dark</color>
+    <color name="alert_dialog_color_accent_light">@*android:color/accent_material_dark</color>
+    <color name="switch_track_activated_color_dark">@*android:color/accent_material_dark</color>
+    <color name="switch_track_activated_color_light">@*android:color/accent_material_dark</color>
 </resources>

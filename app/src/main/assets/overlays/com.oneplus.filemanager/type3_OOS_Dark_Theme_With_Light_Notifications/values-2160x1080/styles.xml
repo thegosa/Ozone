@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Oneplus.Theme.Material" parent="@*com.oneplus.filemanager:style/OneplusThemeBase">
+        <item name="android:navigationBarColor">@*android:color/holo_red_dark</item>
+    </style>
+    <style name="Oneplus.Theme.Material.Light" parent="@*com.oneplus.filemanager:style/OneplusThemeLightBase">
+        <item name="android:navigationBarColor">@*android:color/holo_red_dark</item>
+    </style>
+</resources>

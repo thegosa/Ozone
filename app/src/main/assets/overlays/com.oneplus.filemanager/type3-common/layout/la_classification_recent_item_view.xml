@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oneplus.filemanager.classification.RecentFileItemView android:id="@*com.oneplus.filemanager:id/item_content" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@*com.oneplus.filemanager:id/file_icon" android:layout_width="@*com.oneplus.filemanager:dimen/file_icon_size" android:layout_height="@*com.oneplus.filemanager:dimen/file_icon_size" android:scaleType="centerCrop" android:layout_centerVertical="true" android:layout_marginStart="@*com.oneplus.filemanager:dimen/margin_left2" android:layout_alignParentStart="true" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@*com.oneplus.filemanager:dimen/list_item_2line" android:layout_marginStart="@*com.oneplus.filemanager:dimen/margin_left4">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@*com.oneplus.filemanager:id/file_select_box">
+            <TextView android:ellipsize="middle" android:id="@*com.oneplus.filemanager:id/file_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_marginEnd="@*com.oneplus.filemanager:dimen/margin_right2" style="@*com.oneplus.filemanager:style/text_subheading_style" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip">
+                <TextView android:gravity="start" android:id="@*com.oneplus.filemanager:id/file_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toStartOf="@*com.oneplus.filemanager:id/file_describe" android:layout_alignParentStart="true" style="@*com.oneplus.filemanager:style/text_body1_style" />
+                <TextView android:textColor="@*com.oneplus.filemanager:color/new_app_accent" android:id="@*com.oneplus.filemanager:id/file_describe" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@*com.oneplus.filemanager:string/apk_uninstall" android:layout_marginEnd="@*com.oneplus.filemanager:dimen/margin_right2" android:layout_alignParentEnd="true" style="@*com.oneplus.filemanager:style/text_body1_style" />
+            </RelativeLayout>
+        </LinearLayout>
+        <com.oneplus.lib.widget.button.OPCheckBox android:id="@*com.oneplus.filemanager:id/file_select_box" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginEnd="@*com.oneplus.filemanager:dimen/margin_right2" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <FrameLayout android:background="?*android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@*com.oneplus.filemanager:dimen/list_item_2line" />
+    <com.oneplus.filemanager.view.DividerView android:id="@*com.oneplus.filemanager:id/divider_line" android:background="@*com.oneplus.filemanager:drawable/dr_divider_background" android:layout_width="fill_parent" android:layout_height="@*com.oneplus.filemanager:dimen/divider_line_height" android:layout_alignParentBottom="true" />
+</com.oneplus.filemanager.classification.RecentFileItemView>
