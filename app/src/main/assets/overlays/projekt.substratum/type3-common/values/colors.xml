@@ -70,7 +70,5 @@
     <color name="bb_darkBackgroundColor">@*android:color/holo_red_dark</color>
     <color name="bb_inActiveBottomBarItemColor">#ffaaaaaa</color>
     <color name="bottombar_bar_background">@*android:color/holo_red_dark</color>
-    <color name="bottombar_icon_text_selected">@*android:color/accent_material_dark</color>
     <color name="overlay_not_installed_list_entry">@android:color/white</color>
-    <color name="showcase_activity_text">@android:color/white</color>
 </resources>
