@@ -26,9 +26,13 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>New Background: Gunpowder</item>
-        <item>New Accents: Blue_005/006/007; Orange_002; Pink_005/006/007/008; Red_011</item>
-        <item>Themed OnePlus Calculator</item>
-        <item>Themed Gboard</item>
+        <item>Fixes for Substratum v952</item>
+        <item>Themed Oneplus camera settings</item>
+        <item>Fixes for gboard</item>
+        <item>Fixes for SystemUI</item>
+        <item>Fixes for File Manager</item>
+        <item>Themed InCallUI background</item>
+        <item>Themed shelf for light mode</item>
+        <item>Added a Show 4G option for statusbar</item>
     </string-array>
 </resources>
