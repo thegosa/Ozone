@@ -5,4 +5,19 @@
     <color name="entry_page_tab_text_dark">#8affffff</color>
     <color name="entry_page_tab_text_selected_dark">@*android:color/accent_material_dark</color>
     <color name="gallery_accent_color">@*android:color/accent_material_dark</color>
+    <color name="entry_page_tab_background_android">@*android:color/background_dark</color>
+    <color name="entry_page_tab_background_dark">@*android:color/background_dark</color>
+    <color name="action_bar_background_android">@*android:color/background_dark</color>
+    <color name="action_bar_background_dark">@*android:color/background_dark</color>
+    <color name="media_set_list_item_cover_media_background_dark">@*android:color/holo_red_dark</color>
+    <color name="oneplus_contorl_bg_color_appbar_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_appbar_default">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_dark">@*android:color/holo_red_dark</color>
+    <color name="oneplus_contorl_bg_color_default">@*android:color/holo_red_dark</color>
+    <color name="oneplus_contorl_bg_color_dialogs_dark">@*android:color/holo_red_dark</color>
+    <color name="oneplus_contorl_bg_color_dialogs_default">@*android:color/holo_red_dark</color>
+    <color name="oneplus_contorl_bg_color_menu_dark">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_bg_color_menu_default">@*android:color/background_dark</color>
+    <color name="oneplus_contorl_divider_color_dark">#00ffffff</color>
+    <color name="oneplus_contorl_divider_color_default">#00ffffff</color>
 </resources>
