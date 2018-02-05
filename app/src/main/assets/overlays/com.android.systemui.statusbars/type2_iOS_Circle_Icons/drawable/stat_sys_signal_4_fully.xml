@@ -1,0 +1,54 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="40dp"
+    android:height="20dp"
+    android:viewportWidth="23"
+    android:viewportHeight="12.5">
+    
+	<path
+        android:name="path_1"
+        android:pathData="M 4.3 7 C 5 7 5.6 7.6 5.6 8.3 C 5.6 9 5 9.6 4.3 9.6 C 3.6 9.6 3 9 3 8.3 C 3 7.6 3.6 7 4.3 7 M 4.3 6 C 3 6 2 7 2 8.3 C 2 9.6 3 10.6 4.3 10.6 C 5.6 10.6 6.6 9.6 6.6 8.3 C 6.6 7 5.6 6 4.3 6 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+	<path
+        android:name="path_2"
+        android:pathData="M 9.4 7 C 10.1 7 10.7 7.6 10.7 8.3 C 10.7 9 10.1 9.6 9.4 9.6 C 8.7 9.6 8.1 9 8.1 8.3 C 8.1 7.6 8.7 7 9.4 7 M 9.4 6 C 8.1 6 7.1 7 7.1 8.3 C 7.1 9.6 8.1 10.6 9.4 10.6 C 10.7 10.6 11.7 9.6 11.7 8.3 C 11.7 7 10.7 6 9.4 6 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+	<path
+		android:name="path_3"
+		android:pathData="M 14.6 7 C 15.3 7 15.9 7.6 15.9 8.3 C 15.9 9 15.3 9.6 14.6 9.6 C 13.9 9.6 13.2 9 13.2 8.3 C 13.2 7.6 13.8 7 14.6 7 M 14.6 6 C 13.3 6 12.3 7 12.3 8.3 C 12.3 9.6 13.3 10.6 14.6 10.6 C 15.9 10.6 16.9 9.6 16.9 8.3 C 16.9 7 15.8 6 14.6 6 Z"
+		android:fillColor="#ffffff"
+		android:strokeWidth="1"/>
+	<path
+		android:name="path_4"
+		android:pathData="M 19.7 7 C 20.4 7 21 7.6 21 8.3 C 21 9 20.4 9.6 19.7 9.6 C 19 9.6 18.4 9 18.4 8.3 C 18.4 7.6 19 7 19.7 7 M 19.7 6 C 18.4 6 17.4 7 17.4 8.3 C 17.4 9.6 18.4 10.6 19.7 10.6 C 21 10.6 22 9.6 22 8.3 C 22 7 21 6 19.7 6 Z"
+		android:fillColor="#ffffff"
+		android:strokeWidth="1"/>
+	
+	<path
+        android:name="path_1_solid"
+        android:pathData="M 4.3 10.1 C 3.3 10.1 2.5 9.3 2.5 8.3 C 2.5 7.3 3.3 6.5 4.3 6.5 C 5.3 6.5 6.1 7.3 6.1 8.3 C 6.1 9.3 5.3 10.1 4.3 10.1 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="1"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2_solid"
+        android:pathData="M 9.4 10.1 C 8.4 10.1 7.6 9.3 7.6 8.3 C 7.6 7.3 8.4 6.5 9.4 6.5 C 10.4 6.5 11.2 7.3 11.2 8.3 C 11.2 9.3 10.4 10.1 9.4 10.1 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="1"
+        android:strokeWidth="1"/>
+    <path
+		android:name="path_3_solid"
+		android:pathData="M 14.6 10.1 C 13.6 10.1 12.8 9.3 12.8 8.3 C 12.8 7.3 13.6 6.5 14.6 6.5 C 15.6 6.5 16.4 7.3 16.4 8.3 C 16.4 9.3 15.6 10.1 14.6 10.1 Z"
+		android:fillColor="#ffffff"
+		android:fillAlpha="1"
+		android:strokeWidth="1"/>
+	<path
+		android:name="path_4_solid"
+		android:pathData="M 19.7 10.1 C 18.7 10.1 17.9 9.3 17.9 8.3 C 17.9 7.3 18.7 6.5 19.7 6.5 C 20.7 6.5 21.5 7.3 21.5 8.3 C 21.5 9.3 20.7 10.1 19.7 10.1 Z"
+		android:fillColor="#ffffff"
+		android:fillAlpha="1"
+		android:strokeWidth="1"/>
+</vector>
