@@ -26,13 +26,8 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Fixes for Substratum v952</item>
-        <item>Themed Oneplus camera settings</item>
-        <item>Fixes for gboard</item>
-        <item>Fixes for SystemUI</item>
-        <item>Fixes for File Manager</item>
-        <item>Themed InCallUI background</item>
-        <item>Themed shelf for light mode</item>
-        <item>Added a Show 4G option for statusbar</item>
+        <item>Updated gallery overlay</item>
+        <item>Added iOS statusbar icons</item>
+        <item>New accent: Blue 008</item>
     </string-array>
 </resources>
