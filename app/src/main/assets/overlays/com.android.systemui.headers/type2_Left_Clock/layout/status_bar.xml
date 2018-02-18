@@ -6,7 +6,7 @@
     <LinearLayout android:orientation="horizontal" android:id="@*com.android.systemui:id/status_bar_contents" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="6.0dip" android:paddingEnd="8.0dip">
         
 		<LinearLayout android:orientation="horizontal" android:id="@*com.android.systemui:id/system_icon_area" android:layout_height="fill_parent" android:layout_width="wrap_content" android:gravity="left" >
-			<com.android.systemui.statusbar.policy.Clock android:textAppearance="@*com.android.systemui:style/TextAppearance.StatusBar.Clock" android:gravity="start|center" android:id="@*com.android.systemui:id/clock" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:paddingEnd="@*com.android.systemui:dimen/status_bar_clock_end_padding" />
+			<com.android.systemui.statusbar.policy.Clock android:textAppearance="@*com.android.systemui:style/TextAppearance.StatusBar.Clock" android:gravity="start|center" android:id="@*com.android.systemui:id/clock" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:paddingStart="7.0dip" android:paddingEnd="@*com.android.systemui:dimen/status_bar_clock_end_padding" />
 		</LinearLayout>
 		
 		<com.android.systemui.statusbar.AlphaOptimizedFrameLayout android:orientation="horizontal" android:id="@*com.android.systemui:id/notification_icon_area" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
