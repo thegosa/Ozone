@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <nine-patch android:src="@*com.android.contacts:drawable/oneplus_textfield_default_bg" android:tint="@*android:color/accent_material_dark" android:alpha="?*android:disabledAlpha" />
+    </item>
+    <item android:state_focused="false" android:state_pressed="false">
+        <nine-patch android:src="@*com.android.contacts:drawable/oneplus_textfield_default_bg" android:tint="@*android:color/accent_material_dark" />
+    </item>
+    <item>
+        <nine-patch android:src="@*com.android.contacts:drawable/oneplus_textfield_default_bg" android:tint="@*android:color/accent_material_dark" />
+    </item>
+</selector>

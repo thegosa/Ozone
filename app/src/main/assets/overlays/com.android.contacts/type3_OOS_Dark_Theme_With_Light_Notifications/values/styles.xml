@@ -12,4 +12,43 @@
         <item name="android:track">@*com.android.contacts:drawable/switch_track_material</item>
         <item name="android:elevation">0.0dip</item>
     </style>
+
+    <style name="Oneplus.Contacts.BaseTheme" parent="@*com.android.contacts:style/Oneplus.Theme.DeviceDefault">
+        <item name="android:icon">@*android:color/transparent</item>
+        <item name="android:textColorPrimary">@*com.android.contacts:color/oneplus_primary_text_color</item>
+        <item name="android:textColorSecondary">@*com.android.contacts:color/oneplus_secondary_text_color</item>
+        <item name="android:listViewStyle">@*com.android.contacts:style/ListViewStyle</item>
+        <item name="android:actionModeBackground">@*com.android.contacts:color/oneplus_actionmode_background_color</item>
+        <item name="android:actionModeCloseDrawable">@*com.android.contacts:drawable/ic_close_lt</item>
+        <item name="android:actionBarTabBarStyle">@*com.android.contacts:style/ContactsActionBarTabBarStyle</item>
+        <item name="android:actionBarTabTextStyle">@*com.android.contacts:style/OPContactsActionBarTabTextStyle</item>
+        <item name="android:alertDialogTheme">@*com.android.contacts:style/OnePlusContactsAlertDialogTheme</item>
+        <item name="android:fastScrollThumbDrawable">@*com.android.contacts:drawable/fastscroll_thumb</item>
+        <item name="android:actionModeSplitBackground">@*com.android.contacts:color/oneplus_actionmode_background_color</item>
+        <item name="android:colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="android:colorPrimary">@*com.android.contacts:color/oneplus_primary_color</item>
+        <item name="android:colorPrimaryDark">@*android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:windowLightStatusBar">@*com.android.contacts:bool/config_window_light_status_Bar</item>
+        <item name="onePlusPrimaryColor">@*android:color/accent_material_dark</item>
+        <item name="onePlusActionbarTitleColor">@*com.android.contacts:color/oneplus_actionbar_text_color</item>
+        <item name="onePlusActionbarIconColor">@*android:color/accent_material_dark</item>
+        <item name="onePlusActionbarBackgroundColor">@*com.android.contacts:color/oneplus_actionbar_background_color</item>
+        <item name="onePlusActionbarIconAlpha">1.0</item>
+    </style>
+
+    <style name="OnePlusContactsAlertDialogTheme" parent="@*com.android.contacts:style/Oneplus.Theme.DeviceDefault.Dialog.Alert">
+        <item name="onePlusPrimaryColor">@*android:color/accent_material_dark</item>
+    </style>
+
+    <style name="Oneplus.ContactsEditor.ActionBar" parent="@*com.android.contacts:style/Oneplus.Contacts.ActionBar">
+        <item name="android:background">@*android:color/holo_blue_dark</item>
+        <item name="android:elevation">0.0dip</item>
+    </style>
+
+    <style name="OPContactEditorActivityTheme" parent="@*com.android.contacts:style/OPPeopleTheme">
+        <item name="android:actionBarStyle">@*com.android.contacts:style/Oneplus.ContactsEditor.ActionBar</item>
+        <item name="android:colorButtonNormal">@*com.android.contacts:color/background_primary</item>
+        <item name="android:colorPrimaryDark">@*android:color/holo_blue_dark</item>
+    </style>
 </resources>
