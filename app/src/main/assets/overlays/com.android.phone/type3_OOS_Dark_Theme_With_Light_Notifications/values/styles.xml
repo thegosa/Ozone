@@ -12,4 +12,16 @@
         <item name="android:track">@*com.android.phone:drawable/switch_track_material</item>
         <item name="android:elevation">0.0dip</item>
     </style>
+
+    <style name="SettingsStyle" parent="@*com.android.phone:style/BaseStyle">
+        <item name="android:alertDialogTheme">@*com.android.phone:style/AlertDialogTheme</item>
+        <item name="android:colorPrimaryDark">@*android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@*com.android.phone:color/op_sim_settings_color_accent</item>
+        <item name="android:windowLightStatusBar">@*com.android.phone:bool/config_window_light_status_Bar</item>
+        <item name="onePlusPrimaryColor">@*com.android.phone:color/op_sim_settings_color_accent</item>
+        <item name="onePlusActionbarTitleColor">@*com.android.phone:color/op_sim_settings_actionbar_text</item>
+        <item name="onePlusActionbarSubtitleColor">@*com.android.phone:color/op_sim_settings_actionbar_text</item>
+        <item name="onePlusActionbarIconColor">@*com.android.phone:color/op_sim_settings_actionbar_icon_color</item>
+        <item name="onePlusActionbarBackgroundColor">@*com.android.phone:color/op_sim_settings_title_background</item>
+    </style>
 </resources>
