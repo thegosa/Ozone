@@ -26,8 +26,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Updated gallery overlay</item>
-        <item>Added iOS statusbar icons</item>
-        <item>New accent: Blue 008</item>
+        <item>Updated Dialer overlay</item>
+        <item>Updated contacts overlay</item>
+        <item>Improved alignment for ios icons</item>
+        <item>Workaround for hardcoded notifications</item>
+        <item>Fixed Gmail and Inbox dark notifications</item>
+        <item>Minor bugfixes</item>
     </string-array>
 </resources>
