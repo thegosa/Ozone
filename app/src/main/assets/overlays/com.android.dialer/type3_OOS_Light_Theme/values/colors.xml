@@ -14,9 +14,6 @@
     <color name="oneplus_section_header_text_color">@*android:color/accent_material_dark</color>
     <color name="oneplus_empty_list_action_text_color">@*android:color/accent_material_dark</color>
     <color name="quick_index_bar_select_color">@*android:color/accent_material_dark</color>
-    <color name="oneplus_primary_color">@*android:color/background_dark</color>
-    <color name="oneplus_primary_color_dark">@*android:color/background_dark</color>
-    <color name="oneplus_actionbar_background_color">@*android:color/holo_blue_dark</color>
     <color name="oneplus_contact_list_title_text_color">@*android:color/accent_material_dark</color>
     <color name="op_countrycode_item_title_color">@*android:color/accent_material_dark</color>
 
@@ -34,7 +31,31 @@
     <color name="oneplus_profile_text_color">@*android:color/accent_material_dark</color>
     <color name="oneplus_contextual_selection_bar_color">@*android:color/accent_material_dark</color>
     <color name="oneplus_actionmode_background_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_contact_icon_unfocused_tint_color">@*android:color/accent_material_dark</color>
 
-    <!--Divider-->
-    <color name="oneplus_contorl_divider_color_dark">#00ffffff</color>
+    <!--Accents #0288d1-->
+    <color name="dialer_theme_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_dialpad_button_text_color_primary">@*android:color/accent_material_dark</color>
+    <color name="oneplus_emergency_dialpad_button_text_color_primary">@*android:color/accent_material_dark</color>
+    <color name="dialtacts_theme_color">@*android:color/accent_material_dark</color>
+    <color name="dialer_dialpad_touch_tint">@*android:color/accent_material_dark</color>
+    <color name="oneplus_accent_color">@*android:color/accent_material_dark</color>
+
+	<!--Accents #1387a5-->
+    <color name="dialog_header_color_background">@*android:color/accent_material_dark</color>
+    <color name="selection_control_on_light">@*android:color/accent_material_dark</color>
+    <color name="system_focus_light">@*android:color/accent_material_dark</color>
+    <color name="blue_03_light">@*android:color/accent_material_dark</color>
+
+    <!--Accents #517ebd-->
+    <color name="oneplus_highlight_color">@*android:color/accent_material_dark</color>
+
+    <!--Extras-->
+    <color name="oneplus_tab_selected_underline_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_actionbar_icon_tint_color">@*android:color/accent_material_dark</color>
+    <color name="onePlusPrimaryColor_device_default_light">@*android:color/accent_material_dark</color>
+    <color name="onePlusPrimaryColor_device_default_dark">@*android:color/accent_material_dark</color>
+    <color name="onePlusAccentColor_device_default_light">@*android:color/accent_material_dark</color>
+    <color name="onePlusAccentColor_device_default_dark">@*android:color/accent_material_dark</color>
+
 </resources>

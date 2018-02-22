@@ -12,4 +12,54 @@
         <item name="android:track">@*com.android.dialer:drawable/switch_track_material</item>
         <item name="android:elevation">0.0dip</item>
     </style>
+
+    <style name="OnePlusContactsAlertDialogTheme" parent="@*com.android.dialer:style/Oneplus.Theme.DeviceDefault.Dialog.Alert">
+        <item name="onePlusPrimaryColor">@*android:color/accent_material_dark</item>
+    </style>
+
+    <style name="OneplusSearchTextSelectHandleTheme" parent="@*com.android.dialer:style/Oneplus.Theme.DeviceDefault">
+        <item name="android:textCursorDrawable">@*com.android.dialer:drawable/oneplus_special_text_cursor</item>
+        <item name="onePlusPrimaryColor">@*android:color/accent_material_dark</item>
+    </style>
+
+    <style name="OnePlusDialpadTheme">
+        <item name="*com.android.dialer:dialpad_text_color">@*com.android.dialer:color/oneplus_dialpad_input_text_color</item>
+        <item name="*com.android.dialer:dialpad_text_color_primary">@*android:color/accent_material_dark</item>
+        <item name="*com.android.dialer:dialpad_text_color_secondary">@*com.android.dialer:color/oneplus_dialpad_button_text_color_secondary</item>
+        <item name="*com.android.dialer:dialpad_icon_tint">@*com.android.dialer:color/oneplus_dialpad_icon_tint</item>
+        <item name="*com.android.dialer:dialpad_voicemail_tint">@*com.android.dialer:color/oneplus_dialpad_voicemail_tint</item>
+        <item name="*com.android.dialer:dialpad_background">@*com.android.dialer:color/oneplus_dialpad_bg_color</item>
+        <item name="*com.android.dialer:dialpad_sliding_extra_area_height">@*com.android.dialer:dimen/oneplus_sliding_extra_area_height</item>
+        <item name="*com.android.dialer:dialpad_key_minheight">@*com.android.dialer:dimen/oneplus_dialpad_key_height</item>
+        <item name="*com.android.dialer:dialpad_bottom_space_height">@*com.android.dialer:dimen/oneplus_dialpad_bottom_space_height</item>
+        <item name="*com.android.dialer:dialpad_digits_container_height">@*com.android.dialer:dimen/oneplus_dialpad_digits_container_height</item>
+        <item name="*com.android.dialer:digits_adjustable_height">@*com.android.dialer:dimen/oneplus_dialpad_digits_height</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_margin_bottom">@*com.android.dialer:dimen/oneplus_floating_action_button_margin_bottom</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_width">@*com.android.dialer:dimen/oneplus_floating_action_button_width</item>
+        <item name="*com.android.dialer:dialpad_floating_action_button_height">@*com.android.dialer:dimen/oneplus_floating_action_button_height</item>
+    </style>
+
+    <style name="Oneplus.Contacts.BaseTheme" parent="@*com.android.dialer:style/Oneplus.Theme.DeviceDefault">
+        <item name="android:icon">@*android:color/transparent</item>
+        <item name="android:textColorPrimary">@*com.android.dialer:color/oneplus_primary_text_color</item>
+        <item name="android:textColorSecondary">@*com.android.dialer:color/oneplus_secondary_text_color</item>
+        <item name="android:listViewStyle">@*com.android.dialer:style/ListViewStyle</item>
+        <item name="android:actionModeBackground">@*com.android.dialer:color/oneplus_actionmode_background_color</item>
+        <item name="android:actionModeCloseDrawable">@*com.android.dialer:drawable/ic_close_lt</item>
+        <item name="android:actionBarTabBarStyle">@*com.android.dialer:style/ContactsActionBarTabBarStyle</item>
+        <item name="android:actionBarTabTextStyle">@*com.android.dialer:style/OPContactsActionBarTabTextStyle</item>
+        <item name="android:alertDialogTheme">@*com.android.dialer:style/OnePlusContactsAlertDialogTheme</item>
+        <item name="android:fastScrollThumbDrawable">@*com.android.dialer:drawable/fastscroll_thumb</item>
+        <item name="android:actionModeSplitBackground">@*com.android.dialer:color/oneplus_actionmode_background_color</item>
+        <item name="android:colorControlActivated">@*com.android.dialer:color/oneplus_contacts_control_activated_color</item>
+        <item name="android:colorPrimary">@*com.android.dialer:color/oneplus_primary_color</item>
+        <item name="android:colorPrimaryDark">@*com.android.dialer:color/oneplus_primary_color_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:windowLightStatusBar">@*com.android.dialer:bool/config_window_light_status_Bar</item>
+        <item name="onePlusPrimaryColor">@*android:color/accent_material_dark</item>
+        <item name="onePlusActionbarTitleColor">@*com.android.dialer:color/oneplus_actionbar_text_color</item>
+        <item name="onePlusActionbarIconColor">@*android:color/accent_material_dark</item>
+        <item name="onePlusActionbarBackgroundColor">@*com.android.dialer:color/oneplus_actionbar_background_color</item>
+        <item name="onePlusActionbarIconAlpha">1.0</item>
+    </style>
 </resources>
