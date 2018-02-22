@@ -4,7 +4,7 @@
     <item>
         <shape android:shape="oval">
             <solid android:color="@*android:color/accent_material_dark" />
-            <size android:height="@dimen/contact_browser_list_item_photo_size" android:width="@dimen/contact_browser_list_item_photo_size" />
+            <size android:height="@*com.android.contacts:dimen/contact_browser_list_item_photo_size" android:width="@*com.android.contacts:dimen/contact_browser_list_item_photo_size" />
         </shape>
     </item>
     <item android:gravity="center" android:drawable="@*com.android.contacts:drawable/oneplus_ic_person_add_white_24px" />
