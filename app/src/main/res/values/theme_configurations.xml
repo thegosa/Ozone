@@ -26,6 +26,9 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
+        <item>Added some options for messaging app</item>
+        <item>Fixes for Dialer and contacts for light themes users</item>
+        <item>Added overlay for GB whatsapp</item>
         <item>Updated Dialer overlay</item>
         <item>Updated contacts overlay</item>
         <item>Improved alignment for ios icons</item>
