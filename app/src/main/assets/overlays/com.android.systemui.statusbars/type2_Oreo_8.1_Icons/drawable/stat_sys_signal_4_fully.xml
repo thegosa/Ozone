@@ -6,8 +6,33 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     <path
-        android:name="path_1"
-        android:pathData="M 3.4 22 L 20.6 22 C 21.4 22 22 21.4 22 20.6 L 22 3.4 C 22 2.2 20.5 1.6 19.7 2.4 L 2.4 19.7 C 1.5 20.5 2.2 22 3.4 22 Z"
+        android:name="path_0"
+        android:pathData="M 3.3 22 L 22 22 L 22 3.3 C 22 2.1 20.6 1.5 19.8 2.4 L 2.4 19.8 C 1.6 20.6 2.1 22 3.3 22 Z"
         android:fillColor="#ffffff"
+        android:fillAlpha="0.3"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_1"
+        android:pathData="M 9 13.1 L 2.4 19.7 C 1.6 20.6 2.1 22 3.3 22 L 9 22 L 9 13.1 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="0"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 13.3 8.9 L 2.4 19.8 C 1.6 20.6 2.1 22 3.3 22 L 13.2 22 L 13.2 8.9 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="0"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 16.2 5.9 L 2.4 19.8 C 1.6 20.6 2.1 22 3.3 22 L 16.2 22 L 16.2 5.9 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="0"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_4"
+        android:pathData="M 3.3 22 L 22 22 L 22 3.3 C 22 2.1 20.6 1.5 19.8 2.4 L 2.4 19.8 C 1.6 20.6 2.1 22 3.3 22 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="1"
         android:strokeWidth="1"/>
 </vector>
