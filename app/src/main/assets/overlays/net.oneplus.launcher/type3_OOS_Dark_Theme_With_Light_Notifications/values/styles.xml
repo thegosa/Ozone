@@ -12,4 +12,4 @@
         <item name="android:track">@*net.oneplus.launcher:drawable/switch_track_material</item>
         <item name="android:elevation">0.0dip</item>
     </style>
-</resources>
+    </resources>
