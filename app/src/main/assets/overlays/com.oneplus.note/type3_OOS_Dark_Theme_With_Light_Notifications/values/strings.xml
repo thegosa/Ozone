@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="top"> </string>
+	<string name="delete"> </string>
+	<string name="share"> </string>
+	<string name="save"> </string>
+	<string name="reminder"> </string>
+</resources>
