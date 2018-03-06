@@ -20,14 +20,13 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Added some options for messaging app</item>
-        <item>Fixes for Dialer and contacts for light themes users</item>
-        <item>Added overlay for GB whatsapp</item>
-        <item>Updated Dialer overlay</item>
-        <item>Updated contacts overlay</item>
-        <item>Improved alignment for ios icons</item>
-        <item>Workaround for hardcoded notifications</item>
-        <item>Fixed Gmail and Inbox dark notifications</item>
-        <item>Minor bugfixes</item>
+        <item>File Manager: Fixed actionbar color</item>
+        <item>Settings: Fix toggle color</item>
+        <item>SystemUI: Improved 8.1 icons</item>
+        <item>SystemUI: Fixed Volte logo padding</item>
+        <item>SystemUI: Simplified notification background options</item>
+        <item>Android FW: Simplified QS background options</item>
+        <item>Launcher: Fixed Note widget in shelf</item>
+        <item>OPNote: Themed in dark mode</item>
     </string-array>
 </resources>
