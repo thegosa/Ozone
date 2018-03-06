@@ -20,6 +20,8 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
+        <item>Reply: Themed for dark notifications</item>
+        <item>Android FW: Fix for QS background not being set correctly</item>
         <item>File Manager: Fixed actionbar color</item>
         <item>Settings: Fix toggle color</item>
         <item>SystemUI: Improved 8.1 icons</item>
