@@ -9,4 +9,14 @@
         <item name="android:shadowColor">#ffffffff</item>
         <item name="android:shadowRadius">2.0</item>
     </style>
+
+    <!--QS related values-->
+    <style name="Theme.DeviceDefault.QuickSettings" parent="@*android:style/Theme.DeviceDefault">
+        <!-- Color palette -->
+        <item name="android:colorPrimary">#00000000</item>
+        <item name="android:colorPrimaryDark">#00000000</item>
+        <item name="android:colorSecondary">#00000000</item>
+        <item name="android:colorAccent">#00000000</item>
+        <item name="android:colorControlNormal">#00000000</item>
+    </style>
 </resources>

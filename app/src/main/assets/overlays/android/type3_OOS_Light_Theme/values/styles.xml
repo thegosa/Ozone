@@ -1,0 +1,11 @@
+<resources>
+    <!--QS related values-->
+    <style name="Theme.DeviceDefault.QuickSettings" parent="@*android:style/Theme.DeviceDefault">
+        <!-- Color palette -->
+        <item name="android:colorPrimary">#ffffffff</item>
+        <item name="android:colorPrimaryDark">#ffffffff</item>
+        <item name="android:colorSecondary">#ffffffff</item>
+        <item name="android:colorAccent">#ffffffff</item>
+        <item name="android:colorControlNormal">#ffffffff</item>
+    </style>
+</resources>
