@@ -8,6 +8,4 @@
         <item name="android:colorAccent">#cc000000</item>
         <item name="android:colorControlNormal">#cc000000</item>
     </style>
-
-    <color name="notification_action_list">#cc000000</color>
 </resources>

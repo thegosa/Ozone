@@ -2,5 +2,6 @@
 <resources>
     <color name="background_dark">#ff101918</color>
     <color name="holo_red_dark">#ff080d0d</color>
-    <color name="holo_green_dark">#cc101918</color>
+    <color name="holo_green_dark">#cc101918</color> <!--20-->
+    <color name="holo_green_light">#99101918</color> <!--40-->
 </resources>
