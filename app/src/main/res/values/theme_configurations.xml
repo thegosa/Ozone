@@ -20,15 +20,6 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Reply: Themed for dark notifications</item>
-        <item>Android FW: Fix for QS background not being set correctly</item>
-        <item>File Manager: Fixed actionbar color</item>
-        <item>Settings: Fix toggle color</item>
-        <item>SystemUI: Improved 8.1 icons</item>
-        <item>SystemUI: Fixed Volte logo padding</item>
-        <item>SystemUI: Simplified notification background options</item>
-        <item>Android FW: Simplified QS background options</item>
-        <item>Launcher: Fixed Note widget in shelf</item>
-        <item>OPNote: Themed in dark mode</item>
+        <item>Removed some bugs in dark notifications</item>
     </string-array>
 </resources>

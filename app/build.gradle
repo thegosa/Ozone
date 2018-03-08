@@ -40,8 +40,8 @@ android {
         minSdkVersion 26
         targetSdkVersion 27
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 26
-        versionName "3.35"
+        versionCode 27
+        versionName "3.4"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
