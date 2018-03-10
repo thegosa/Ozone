@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="oneplus_accent_color">@*android:color/accent_material_dark</color>
     <!--QS and related colors-->
     <color name="primary_default_dark">@*android:color/accent_material_dark</color>
     <color name="primary_default_light">@*android:color/accent_material_dark</color>
@@ -9,7 +10,7 @@
     <color name="android_volume_panel_seekbar_thumb_color">@*android:color/accent_material_dark</color>
     <color name="android_system_primary_color">@*android:color/background_dark</color>
     <color name="black_system_primary_color">@*android:color/background_dark</color>
-    
+
     <!--Face Unlock-->
     <color name="face_unlock_button_color">@*android:color/accent_material_dark</color>
 </resources>
