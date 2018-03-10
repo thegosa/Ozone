@@ -20,6 +20,6 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Removed some bugs in dark notifications</item>
+        <item>Hotfix for OOS Oreo 8.1</item>
     </string-array>
 </resources>

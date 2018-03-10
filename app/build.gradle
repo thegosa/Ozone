@@ -37,11 +37,11 @@ android {
         applicationId "com.ungeeked.ozone"
         // We are only supporting Nougat and above, all new changes will incorporate Nougat changes
         // to the substratum repo rather than anything lower. Keep targetSdkVersion the same.
-        minSdkVersion 26
+        minSdkVersion 27
         targetSdkVersion 27
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 27
-        versionName "3.4"
+        versionCode 28
+        versionName "3.45"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
