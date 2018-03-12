@@ -9,5 +9,6 @@
     <string name="launch_dialog_title">Important</string>
     <string name="launch_dialog_content">Ozone 3.5 update brings a lot of bug fixes specific to Oreo 8.1. Statusbar clock options have been fixed and re-enabled. QS background issues have been fixed. If you are still facing the issue, you should probably clean flash your rom. For reporting bugs use xda thread or telegram or email me.</string>
     <string name="launch_dialog_positive">I understand</string>
-    <string name="launch_dialog_negative"></string>
+    <string name="launch_dialog_negative" />
+    <string name="launch_dialog_negative_url" />
 </resources>
