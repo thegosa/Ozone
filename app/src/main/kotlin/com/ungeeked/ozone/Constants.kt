@@ -46,6 +46,7 @@ object Constants {
             "org.mobilism.android",
             "com.blackmartalpha",
             "org.blackmart.market"
+            "com.android.vending.billing.InAppBillingSorvice.COIN"
     )
 
     // List of other theme systems that are officially unsupported by the team, but fully supported
