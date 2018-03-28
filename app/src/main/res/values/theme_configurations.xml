@@ -20,7 +20,7 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Multiple fixes for OOS Oreo 8.1</item>
-        <item>Re-enable clock options</item>
+        <item>Template updates</item>
+        <item>Statusbar clock fix for OB7/OB5</item>
     </string-array>
 </resources>
