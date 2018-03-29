@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="false" android:state_pressed="true" android:state_activated="true">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@*net.oneplus.launcher:color/app_category_item_bg_dragging_color" />
+            <corners android:radius="@*net.oneplus.launcher:dimen/oneplus_contorl_radius_r16" />
+        </shape>
+    </item>
+    <item android:state_selected="true">
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@*android:color/accent_material_dark" />
+            <corners android:radius="@*net.oneplus.launcher:dimen/oneplus_contorl_radius_r16" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@*net.oneplus.launcher:color/app_category_item_bg_color" />
+            <corners android:radius="@*net.oneplus.launcher:dimen/oneplus_contorl_radius_r16" />
+        </shape>
+    </item>
+</selector>

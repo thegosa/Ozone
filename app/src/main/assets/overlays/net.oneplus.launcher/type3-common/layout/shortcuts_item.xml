@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<net.oneplus.launcher.shortcuts.ShortcutsItemView android:id="@*net.oneplus.launcher:id/shortcuts_view" android:background="@*net.oneplus.launcher:drawable/bg_white_round_rect" android:layout_width="@*net.oneplus.launcher:dimen/popup_containers_width" android:layout_height="wrap_content" android:elevation="@*net.oneplus.launcher:dimen/popup_containers_elevation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@*net.oneplus.launcher:dimen/oneplus_contorl_layout_margin_bottom1">
+        <TextView android:textSize="@*net.oneplus.launcher:dimen/item_title_text_size" android:textColor="@*android:color/accent_material_dark" android:id="@*net.oneplus.launcher:id/shortcuts_view_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@*net.oneplus.launcher:dimen/oneplus_contorl_layout_margin_left2" android:layout_marginTop="@*net.oneplus.launcher:dimen/shortcuts_item_title_text_margin_top" android:layout_marginRight="@*net.oneplus.launcher:dimen/oneplus_contorl_layout_margin_right2" android:layout_marginBottom="@*net.oneplus.launcher:dimen/oneplus_contorl_layout_margin_bottom1" android:text="@*net.oneplus.launcher:string/shortcuts_item_title" android:fontFamily="sans-serif-medium" />
+        <LinearLayout android:orientation="vertical" android:id="@*net.oneplus.launcher:id/deep_shortcuts" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@*net.oneplus.launcher:id/shortcuts_view_title" />
+    </RelativeLayout>
+</net.oneplus.launcher.shortcuts.ShortcutsItemView>
