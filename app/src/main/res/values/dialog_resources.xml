@@ -6,9 +6,9 @@
      ~ Custom dialog message on theme launch.
      ~ Add word in launch_dialog_negative to add a cancel button on the dialog
      -->
-    <string name="launch_dialog_title">Dialog title</string>
-    <string name="launch_dialog_content">Dialog content</string>
-    <string name="launch_dialog_positive">OK</string>
+    <string name="launch_dialog_title">Important</string>
+    <string name="launch_dialog_content">Oneplus no longer allows its launcher to be themed fully so some inconsistencies may be there. This is not a theme bug</string>
+    <string name="launch_dialog_positive">I understand</string>
     <string name="launch_dialog_negative" />
     <string name="launch_dialog_negative_url" />
 </resources>
