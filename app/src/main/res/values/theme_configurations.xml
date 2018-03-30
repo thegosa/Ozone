@@ -20,7 +20,12 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Template updates</item>
-        <item>Statusbar clock fix for OB7/OB5</item>
+        <item>New accent: Purple 003</item>
+        <item>New background: Deep Grey</item>
+        <item>New background: Cobalt</item>
+        <item>Launcher overlay updated for version 2.3.2</item>
+        <item>Force hide disabled sim while using ios icons</item>
+        <item>Fix Gmail subject line in dark notifications</item>
+        <item>Some bug fixes and template updates</item>
     </string-array>
 </resources>
