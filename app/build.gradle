@@ -41,8 +41,8 @@ android {
         maxSdkVersion 26
         targetSdkVersion 26
         // Both versions must be changed to increment on Play Store/user's devices
-        versionCode 31
-        versionName "3.55"
+        versionCode 33
+        versionName "3.65"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
