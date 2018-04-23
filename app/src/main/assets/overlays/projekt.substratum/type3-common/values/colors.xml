@@ -16,6 +16,7 @@
 
     <!-- sheet dialog bg -->
     <color name="bottom_sheet_dialog_background">@*android:color/holo_red_dark</color>
+    <color name="bottom_sheet_dialog_background_night">@*android:color/holo_red_dark</color>
     <color name="error_icons">@android:color/white</color>
     <color name="troubleshooting_card_line_color">@*android:color/holo_red_dark</color>
     <color name="priorities_drag_handle">@*android:color/accent_material_dark</color>
