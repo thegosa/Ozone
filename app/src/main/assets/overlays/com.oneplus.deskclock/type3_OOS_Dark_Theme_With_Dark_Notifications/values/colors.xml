@@ -7,4 +7,5 @@
 
 	<!--Background-->
 	<color name="default_background">@*android:color/background_dark</color>
+    <color name="op_clock_item_expand_color">@*android:color/holo_red_dark</color>
 </resources>
