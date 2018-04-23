@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="qs_header_upper_height">62.0dip</dimen>
+    <dimen name="status_bar_header_height">195.0dip</dimen>
+    <dimen name="status_bar_header_height_expanded">195.0dip</dimen>
+</resources>

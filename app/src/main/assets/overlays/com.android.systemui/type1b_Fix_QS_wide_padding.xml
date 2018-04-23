@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="qs_header_upper_height">27.0dip</dimen>
-    <dimen name="qs_lower_pager_height">50.0dip</dimen>
+    <dimen name="status_bar_header_height">127.0dip</dimen>
+    <dimen name="status_bar_header_height_expanded">127.0dip</dimen>
 </resources>
