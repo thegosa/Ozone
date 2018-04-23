@@ -20,6 +20,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Fixed file manager overlay</item>
+        <item>Attempt to fix obnoxious QS padding</item>
+        <item>Fixed notes overlay causing crash</item>
+        <item>Fixed Alarms screen in clock app</item>
+        <item>Some fixes for OP Launcher</item>
+        <item>Support for substratum v984</item>
+        <item>New accent: Blue 009</item>
     </string-array>
 </resources>
